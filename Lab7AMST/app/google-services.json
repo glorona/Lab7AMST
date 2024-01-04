@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254656119821",
+    "project_id": "push-notification-69036",
+    "storage_bucket": "push-notification-69036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254656119821:android:1f83eedece9305ae044144",
+        "android_client_info": {
+          "package_name": "com.amst.grupo4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmOmgGum9TyEgIQMWjfH9BKX55KCd6Maw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
